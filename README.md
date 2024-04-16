@@ -22,7 +22,7 @@ Welcome to my project! This project is designed to provide personalized weather-
 - Generates personalized recommendations based on the combined analysis of health parameters and weather conditions.
 - Example: An algorithm that analyzes user health data and weather forecasts to recommend suitable activities, such as staying indoors during extreme weather for elderly users.
 
-### 5 Productivity Tracker
+### 5. Productivity Tracker
 This productivity tracker allows users to add tasks with descriptions, priorities, and due dates. Users can easily manage their tasks and stay organized.
 - Enter the task name in the "New task" input field.
 - Provide a description of the task in the "Task description" textarea.
