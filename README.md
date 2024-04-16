@@ -22,10 +22,21 @@ Welcome to my project! This project is designed to provide personalized weather-
 - Generates personalized recommendations based on the combined analysis of health parameters and weather conditions.
 - Example: An algorithm that analyzes user health data and weather forecasts to recommend suitable activities, such as staying indoors during extreme weather for elderly users.
 
+### 5 Productivity Tracker
+This productivity tracker allows users to add tasks with descriptions, priorities, and due dates. Users can easily manage their tasks and stay organized.
+- Enter the task name in the "New task" input field.
+- Provide a description of the task in the "Task description" textarea.
+- Select the priority level from the dropdown menu.
+- Choose the due date using the date input field.
+- Click on the "Add Task" button to add the task to the list.
+- 
+Tasks will be displayed below the input section with the task name, description, priority level, due date, and a "Remove" button.
+
 # Screenshots:
 
-![welcome page](https://github.com/1XANTHE/HealthHelper/assets/150462228/49b627ae-a70d-4aee-a3a1-95f1ba62d56f)
-
+- ![welcome page](https://github.com/1XANTHE/HealthHelper/assets/150462228/49b627ae-a70d-4aee-a3a1-95f1ba62d56f)
+- ![weather app](https://github.com/1XANTHE/HealthHelper/assets/150462228/d2b4087e-35d2-48b4-939e-fbd147ed7266)
+-![productivity tracker](https://github.com/1XANTHE/HealthHelper/assets/150462228/97bbdb3e-8c74-4fbc-9b51-ec517e4fc887)
 
 ## Installation and Setup
 - Clone the repository to your local machine.
