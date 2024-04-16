@@ -29,7 +29,7 @@ This productivity tracker allows users to add tasks with descriptions, prioritie
 - Select the priority level from the dropdown menu.
 - Choose the due date using the date input field.
 - Click on the "Add Task" button to add the task to the list.
-- 
+  
 Tasks will be displayed below the input section with the task name, description, priority level, due date, and a "Remove" button.
 
 # Screenshots:
@@ -48,6 +48,7 @@ Tasks will be displayed below the input section with the task name, description,
 - Visit the welcome page to register or log in.
 - After logging in, fill out the health parameter form.
 - Explore the weather app page to view personalized weather recommendations.
+- Manage your important task with our productivity tracker.
 - Stay productive and healthy with our integrated task management features!
 
 ## Contributing
