@@ -22,6 +22,11 @@ Welcome to my project! This project is designed to provide personalized weather-
 - Generates personalized recommendations based on the combined analysis of health parameters and weather conditions.
 - Example: An algorithm that analyzes user health data and weather forecasts to recommend suitable activities, such as staying indoors during extreme weather for elderly users.
 
+# Screenshots:
+
+![welcome page](https://github.com/1XANTHE/HealthHelper/assets/150462228/49b627ae-a70d-4aee-a3a1-95f1ba62d56f)
+
+
 ## Installation and Setup
 - Clone the repository to your local machine.
 - Deploy the application to a Java web server like Apache Tomcat.
