@@ -34,9 +34,9 @@ Tasks will be displayed below the input section with the task name, description,
 
 # Screenshots:
 
-- ![welcome page](https://github.com/1XANTHE/HealthHelper/assets/150462228/49b627ae-a70d-4aee-a3a1-95f1ba62d56f)
-- ![weather app](https://github.com/1XANTHE/HealthHelper/assets/150462228/d2b4087e-35d2-48b4-939e-fbd147ed7266)
--![productivity tracker](https://github.com/1XANTHE/HealthHelper/assets/150462228/97bbdb3e-8c74-4fbc-9b51-ec517e4fc887)
+ ![welcome page](https://github.com/1XANTHE/HealthHelper/assets/150462228/49b627ae-a70d-4aee-a3a1-95f1ba62d56f)
+ ![weather app](https://github.com/1XANTHE/HealthHelper/assets/150462228/d2b4087e-35d2-48b4-939e-fbd147ed7266)
+ ![productivity tracker](https://github.com/1XANTHE/HealthHelper/assets/150462228/97bbdb3e-8c74-4fbc-9b51-ec517e4fc887)
 
 ## Installation and Setup
 - Clone the repository to your local machine.
